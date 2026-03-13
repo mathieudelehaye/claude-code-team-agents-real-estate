@@ -11,6 +11,9 @@ function App() {
       <main className="app-main">
         <FlatGallery />
       </main>
+      <footer className="app-footer">
+        <p>© 2026 Mathieu Delehaye</p>
+      </footer>
     </div>
   );
 }
