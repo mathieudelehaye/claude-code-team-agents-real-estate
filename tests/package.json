@@ -1,0 +1,16 @@
+{
+  "name": "london-rentals-tests",
+  "version": "1.0.0",
+  "description": "QA integration tests for London Rentals marketplace",
+  "type": "module",
+  "scripts": {
+    "test": "node run-all-tests.js",
+    "test:db": "node backend/test-db-blobs.js",
+    "test:api": "node backend/test-api.js",
+    "test:frontend": "node frontend/test-image-rendering.js",
+    "test:e2e": "node e2e/test-blob-flow.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.0.0"
+  }
+}

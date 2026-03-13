@@ -5,12 +5,19 @@
 /.pnp
 .pnp.js
 
+node_modules/
+*.db
+*.code-workspace
+.claude/sessions/
+
 # testing
 /coverage
 
 # next.js
 /.next/
 /out/
+
+_notes/
 
 # production
 /build
