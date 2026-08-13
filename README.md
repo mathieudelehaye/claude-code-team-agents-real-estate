@@ -1,4 +1,4 @@
-# London Rentals — Built by a Claude Code Agent Swarm in 26 Minutes
+# London Flat Market Place — Built by a Claude Code Agent Swarm in 26 Minutes
 
 ![London Rentals screenshot](screenshots/screenshot01.png)
 
